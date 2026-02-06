@@ -10,11 +10,11 @@
 
 **' Projetos em Python '**
 
-## -automaÁıes de OrganizaÁ„o de arquivos??
-codigos que podem ser programados para serem executados em um hor·rio especifico
+## -automa√ß√µes de Organiza√ß√£o de arquivosüìÅ
+codigos que podem ser programados para serem executados em um hor√°rio especifico
 e organizam arquivos em suas devidas pasta (matriculas, firmas, RI)
 
-## -Projeto consulta rapida??
-Consiste em um programa que possui uma interface grafica, e nela um campo de digitaÁ„o, neste campo È digitado
-o CPF/CNPJ que o cartÛrio quer checar, e automaticamente ele abre 3 sites que geralmente o cartÛrio ultiliza (receita federal, Certidoes, e o gov) e cola no campo de digitaÁ„o desses 3 sites ao mesmo tempo. Desta forma o usuario otimiza o processo de checagem do CPF/CNPJ para constars se h· irregularidades. 
+## -Projeto consulta rapidaüõÉ
+Consiste em um programa que possui uma interface grafica, e nela um campo de digita√ß√£o, neste campo √© digitado
+o CPF/CNPJ que o cart√≥rio quer checar, e automaticamente ele abre 3 sites que geralmente o cart√≥rio ultiliza (receita federal, Certidoes, e o gov) e cola no campo de digita√ß√£o desses 3 sites ao mesmo tempo. Desta forma o usuario otimiza o processo de checagem do CPF/CNPJ para constars se h√° irregularidades. 
 
